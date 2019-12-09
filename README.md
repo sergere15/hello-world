@@ -8,3 +8,5 @@ https://www.elastic.co/downloads/elasticsearch
 Invoke-RestMethod http://localhost:9200
 
 https://www.elastic.co/downloads/elasticsearch-no-jdk
+
+https://www.google.com/intl/ru/chrome/
